@@ -1,8 +1,12 @@
 package com.lavanya.data.structures.Arrays;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
+/*
+ An array is a container object that holds a fixed number of values of a single type.
+ The length of an array is established when the array is created. After creation, its length
+ is fixed.
+ */
 public class BasicOperations {
     public static void main(String[] args) {
 
