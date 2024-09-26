@@ -1,6 +1,6 @@
-package com.lavanya.algorithms;
+package com.practise.algorithms;
 
-public class BubbleSort {
+public class SelectionSort {
     public void sort(int[] inputArray){
         for (int unsortedPartitionIndex = inputArray.length - 1;
              unsortedPartitionIndex > 0; unsortedPartitionIndex --) {

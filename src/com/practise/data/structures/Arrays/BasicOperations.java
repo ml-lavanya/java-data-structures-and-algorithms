@@ -1,4 +1,4 @@
-package com.lavanya.data.structures.Arrays;
+package com.practise.data.structures.Arrays;
 
 import java.util.Arrays;
 

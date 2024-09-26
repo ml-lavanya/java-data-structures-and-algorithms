@@ -1,4 +1,4 @@
-package com.lavanya.algorithms;
+package com.practise.algorithms;
 
 import org.junit.jupiter.api.Test;
 
