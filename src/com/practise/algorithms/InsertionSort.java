@@ -5,12 +5,12 @@ public class InsertionSort {
         for (int unsortedPartitionIndex = 1;
              unsortedPartitionIndex < inputArray.length;
              unsortedPartitionIndex ++) {
-            int currentElement = inputArray[unsortedPartitionIndex];
-            int i;
-            for (i = unsortedPartitionIndex - 1; (i >= 0 && inputArray[i] > currentElement); i--) {
-               inputArray[i+1] = inputArray[i];
-            }
-            inputArray[i+1] = currentElement;
+                int currentElement = inputArray[unsortedPartitionIndex];
+                int i;
+                for (i = unsortedPartitionIndex - 1; (i >= 0 && inputArray[i] > currentElement); i--) {
+                    inputArray[i+1] = inputArray[i];
+                }
+                inputArray[i+1] = currentElement;
         }
     }
     public static void main(String[] args) {
