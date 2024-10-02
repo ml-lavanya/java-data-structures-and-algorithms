@@ -1,4 +1,4 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
 public class InsertionSort {
     public void sort(int[] inputArray){

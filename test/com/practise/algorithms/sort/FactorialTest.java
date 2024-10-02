@@ -1,6 +1,5 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

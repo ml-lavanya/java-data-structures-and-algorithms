@@ -1,4 +1,4 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
 public class MergeSort {
     public void merge(int[] input, int start, int mid, int end){

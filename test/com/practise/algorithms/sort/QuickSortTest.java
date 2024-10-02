@@ -1,4 +1,4 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
 import org.junit.jupiter.api.Test;
 

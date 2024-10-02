@@ -1,7 +1,6 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 

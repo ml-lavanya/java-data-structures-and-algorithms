@@ -1,4 +1,4 @@
-package com.practise.algorithms;
+package com.practise.algorithms.sort;
 
 public class QuickSort {
     public int getPivotIndex(int[] inputArray, int start, int end){
