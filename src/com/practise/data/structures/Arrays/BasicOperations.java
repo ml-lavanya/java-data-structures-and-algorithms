@@ -59,5 +59,6 @@ public class BasicOperations {
         System.out.println("\n*********** Arrays.mismatch example ************");
         System.out.println(Arrays.mismatch(arr2, arr3)); // arr2 and arr3 has mismatch at index 4
         System.out.println(Arrays.mismatch(arr, arr2)); // arr, arr2 are same so mismatch returns -1
+        int i = Integer.MAX_VALUE;
     }
 }
